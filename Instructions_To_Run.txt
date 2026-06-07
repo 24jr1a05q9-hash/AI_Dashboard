@@ -1,0 +1,21 @@
+PROJECT RUN INSTRUCTIONS
+
+1. Install Python 3.x
+
+2. Install required libraries:
+
+pip install streamlit pandas plotly
+
+3. Open terminal in the project folder.
+
+4. Run the application:
+
+python -m streamlit run app.py
+
+5. Open the URL shown in the browser.
+
+Technologies Used:
+- Python
+- Pandas
+- Plotly
+- Streamlit
